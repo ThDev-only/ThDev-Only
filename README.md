@@ -1,7 +1,7 @@
 ### 📈 GitHub Statistics.
 
-![Github Statistics](https://github-readme-stats-one-bice.vercel.app/api?username=ThDev-only&show_icons=true&include_all_commits=true&count_p&theme=tokyonight)  
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThDev-only&layout=compact&theme=tokyonight)
+![Github Statistics](https://github-readme-stats-one-bice.vercel.app/api?username=ThDev-only&show_icons=true&include_all_commits=true&count_p&theme=tokyonight)  
 
 <p style="text-align: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
