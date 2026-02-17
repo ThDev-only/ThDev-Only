@@ -1,8 +1,8 @@
 ### 📈 GitHub Statistics.
 
-![Most used languages](https://github-readme-stats-2-sandy.vercel.app/api/top-langs?username=ThDev-only&layout=compact&theme=tokyonight&a=ll&exclude_repo=github-readme-stats-2)
+![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ThDev-only&layout=compact&theme=tokyonight&a=ll&exclude_repo=github-readme-stats-2)
 
-![Github Statistics](https://github-readme-stats-one-bice.vercel.app/api?username=ThDev-only&a=a&show_icons=true&include_all_commits=true&count_p&theme=tokyonight)  
+![Github Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=ThDev-only&a=a&show_icons=true&include_all_commits=true&count_p&theme=tokyonight)  
 
 <p style="text-align: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
