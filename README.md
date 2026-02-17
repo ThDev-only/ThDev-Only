@@ -1,6 +1,6 @@
 ### 📈 GitHub Statistics.
 
-![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ThDev-only&layout=compact&theme=tokyonight&a=ll&exclude_repo=github-readme-stats-2)
+![Most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ThDev-only&layout=compact&theme=tokyonight&a=ll&exclude_repo=github-readme-stats-2&a=a)
 
 ![Github Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=ThDev-only&a=a&show_icons=true&include_all_commits=true&count_p&theme=tokyonight)  
 
